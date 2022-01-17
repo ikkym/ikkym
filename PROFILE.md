@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ikkym
+- 👀 I’m interested in code
+- 🌱 I’m currently learning php
+- 📫 How to reach me send me an email to darmawanrizkymaulana@gmail.com
